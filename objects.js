@@ -5,3 +5,4 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 const recipe = { eggs: 3 }
  
 updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
+console.log(recipe)
